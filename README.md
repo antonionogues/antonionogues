@@ -1,7 +1,7 @@
 ## Hi there, I am Antonio 👋
 
 ## About me
-
+- 📖 Business Administration (Universidad de Málaga)
 - 📚 Master in Data Science (CUNEF)
 - 💻 Programming Languages: Python, SQL, R 
 
