@@ -7,5 +7,4 @@
 
 ## Github stats:
 
-[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonionogues)](https://github.com/antonionogues/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonionogues&langs_count=8)](https://github.com/antonionogues/github-readme-stats)
